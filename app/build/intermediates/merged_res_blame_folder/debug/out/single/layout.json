@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/search_rv.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/search_rv.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/activity_search.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/popular_rv_items.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/popular_rv_items.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/category_rv.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/category_rv.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/activity_recipe.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/activity_home.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/bottem_sheet.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/bottem_sheet.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-mergeDebugResources-35:/layout/activity_category.xml",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_category.xml"
+    }
+]

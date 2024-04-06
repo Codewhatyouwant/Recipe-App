@@ -1,0 +1,166 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.recipekhojo"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:5:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.12.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/268ae21d86fee9db6598bf14bd9537d0/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.example.recipekhojo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.12.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/268ae21d86fee9db6598bf14bd9537d0/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.12.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/268ae21d86fee9db6598bf14bd9537d0/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.example.recipekhojo.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.12.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/268ae21d86fee9db6598bf14bd9537d0/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.12.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/268ae21d86fee9db6598bf14bd9537d0/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:7:5-38:19
+20        android:allowBackup="true"
+20-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:8:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.12.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/268ae21d86fee9db6598bf14bd9537d0/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+22        android:dataExtractionRules="@xml/data_extraction_rules"
+22-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:9:9-65
+23        android:debuggable="true"
+24        android:extractNativeLibs="false"
+25        android:fullBackupContent="@xml/backup_rules"
+25-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:10:9-54
+26        android:icon="@mipmap/ic_launcher"
+26-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:11:9-43
+27        android:label="@string/app_name"
+27-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:12:9-41
+28        android:roundIcon="@mipmap/ic_launcher_round"
+28-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:13:9-54
+29        android:supportsRtl="true"
+29-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:14:9-35
+30        android:theme="@style/Theme.RecipeApp" >
+30-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:15:9-47
+31        <activity
+31-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:17:9-19:40
+32            android:name="com.example.recipekhojo.RecipeActivity"
+32-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:18:13-43
+33            android:exported="false" />
+33-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:19:13-37
+34        <activity
+34-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:20:9-22:40
+35            android:name="com.example.recipekhojo.CategoryActivity"
+35-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:21:13-45
+36            android:exported="false" />
+36-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:22:13-37
+37        <activity
+37-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:23:9-25:40
+38            android:name="com.example.recipekhojo.SearchActivity"
+38-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:24:13-43
+39            android:exported="false" />
+39-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:25:13-37
+40        <activity
+40-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:26:9-28:40
+41            android:name="com.example.recipekhojo.HomeActivity"
+41-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:27:13-41
+42            android:exported="false" />
+42-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:28:13-37
+43        <activity
+43-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:29:9-37:20
+44            android:name="com.example.recipekhojo.MainActivity"
+44-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:30:13-41
+45            android:exported="true" >
+45-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:31:13-36
+46            <intent-filter>
+46-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:32:13-36:29
+47                <action android:name="android.intent.action.MAIN" />
+47-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:33:17-69
+47-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:33:25-66
+48
+49                <category android:name="android.intent.category.LAUNCHER" />
+49-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:35:17-77
+49-->/Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/AndroidManifest.xml:35:27-74
+50            </intent-filter>
+51        </activity>
+52
+53        <provider
+53-->[androidx.emoji2:emoji2:1.2.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+54            android:name="androidx.startup.InitializationProvider"
+54-->[androidx.emoji2:emoji2:1.2.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+55            android:authorities="com.example.recipekhojo.androidx-startup"
+55-->[androidx.emoji2:emoji2:1.2.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+56            android:exported="false" >
+56-->[androidx.emoji2:emoji2:1.2.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+57            <meta-data
+57-->[androidx.emoji2:emoji2:1.2.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+58-->[androidx.emoji2:emoji2:1.2.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+59                android:value="androidx.startup" />
+59-->[androidx.emoji2:emoji2:1.2.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+60            <meta-data
+60-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/mukeshkumhar/.gradle/caches/transforms-3/443f170f96af86fb3f64c392eb555ca6/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:29:13-31:52
+61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+61-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/mukeshkumhar/.gradle/caches/transforms-3/443f170f96af86fb3f64c392eb555ca6/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:30:17-78
+62                android:value="androidx.startup" />
+62-->[androidx.lifecycle:lifecycle-process:2.6.1] /Users/mukeshkumhar/.gradle/caches/transforms-3/443f170f96af86fb3f64c392eb555ca6/transformed/lifecycle-process-2.6.1/AndroidManifest.xml:31:17-49
+63            <meta-data
+63-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+64                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+64-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+65                android:value="androidx.startup" />
+65-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+66        </provider>
+67
+68        <service
+68-->[androidx.room:room-runtime:2.6.1] /Users/mukeshkumhar/.gradle/caches/transforms-3/003273e0752a1826aea19ac608ff87b3/transformed/room-runtime-2.6.1/AndroidManifest.xml:24:9-28:63
+69            android:name="androidx.room.MultiInstanceInvalidationService"
+69-->[androidx.room:room-runtime:2.6.1] /Users/mukeshkumhar/.gradle/caches/transforms-3/003273e0752a1826aea19ac608ff87b3/transformed/room-runtime-2.6.1/AndroidManifest.xml:25:13-74
+70            android:directBootAware="true"
+70-->[androidx.room:room-runtime:2.6.1] /Users/mukeshkumhar/.gradle/caches/transforms-3/003273e0752a1826aea19ac608ff87b3/transformed/room-runtime-2.6.1/AndroidManifest.xml:26:13-43
+71            android:exported="false" />
+71-->[androidx.room:room-runtime:2.6.1] /Users/mukeshkumhar/.gradle/caches/transforms-3/003273e0752a1826aea19ac608ff87b3/transformed/room-runtime-2.6.1/AndroidManifest.xml:27:13-37
+72
+73        <receiver
+73-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+74            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+74-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+75            android:directBootAware="false"
+75-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+76            android:enabled="true"
+76-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+77            android:exported="true"
+77-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+78            android:permission="android.permission.DUMP" >
+78-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+80                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+80-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+81            </intent-filter>
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+83                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+83-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+84            </intent-filter>
+85            <intent-filter>
+85-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+86                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+86-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+87            </intent-filter>
+88            <intent-filter>
+88-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+89                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+89-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+90            </intent-filter>
+91        </receiver>
+92    </application>
+93
+94</manifest>

@@ -1,0 +1,39 @@
+com.example.recipekhojo.app-room-runtime-2.6.1-0 /Users/mukeshkumhar/.gradle/caches/transforms-3/003273e0752a1826aea19ac608ff87b3/transformed/room-runtime-2.6.1/res
+com.example.recipekhojo.app-core-ktx-1.12.0-1 /Users/mukeshkumhar/.gradle/caches/transforms-3/0e27e14742f6bde51c89c4c801f9f91f/transformed/core-ktx-1.12.0/res
+com.example.recipekhojo.app-activity-1.8.0-2 /Users/mukeshkumhar/.gradle/caches/transforms-3/160c2bbb768fb4656814ad283db8f093/transformed/activity-1.8.0/res
+com.example.recipekhojo.app-drawerlayout-1.1.1-3 /Users/mukeshkumhar/.gradle/caches/transforms-3/20c594319cb525a91dec3b1ed46503a9/transformed/drawerlayout-1.1.1/res
+com.example.recipekhojo.app-lifecycle-viewmodel-2.6.1-4 /Users/mukeshkumhar/.gradle/caches/transforms-3/2365ad98b2eacbdeb1b0feb304a9d00f/transformed/lifecycle-viewmodel-2.6.1/res
+com.example.recipekhojo.app-core-1.12.0-5 /Users/mukeshkumhar/.gradle/caches/transforms-3/268ae21d86fee9db6598bf14bd9537d0/transformed/core-1.12.0/res
+com.example.recipekhojo.app-lifecycle-livedata-core-2.6.1-6 /Users/mukeshkumhar/.gradle/caches/transforms-3/3732162dc2bf8cc42b508a0210a4cfcb/transformed/lifecycle-livedata-core-2.6.1/res
+com.example.recipekhojo.app-emoji2-views-helper-1.2.0-7 /Users/mukeshkumhar/.gradle/caches/transforms-3/38c2753b66bcca6977be5480f63498de/transformed/emoji2-views-helper-1.2.0/res
+com.example.recipekhojo.app-transition-1.2.0-8 /Users/mukeshkumhar/.gradle/caches/transforms-3/3c440356433629f82861c60742513f09/transformed/transition-1.2.0/res
+com.example.recipekhojo.app-emoji2-1.2.0-9 /Users/mukeshkumhar/.gradle/caches/transforms-3/3e46213704a06829183ac84d78bdf46e/transformed/emoji2-1.2.0/res
+com.example.recipekhojo.app-lifecycle-process-2.6.1-10 /Users/mukeshkumhar/.gradle/caches/transforms-3/443f170f96af86fb3f64c392eb555ca6/transformed/lifecycle-process-2.6.1/res
+com.example.recipekhojo.app-annotation-experimental-1.3.0-11 /Users/mukeshkumhar/.gradle/caches/transforms-3/5c916737e9bc603c150aa051ba88520e/transformed/annotation-experimental-1.3.0/res
+com.example.recipekhojo.app-glide-4.16.0-12 /Users/mukeshkumhar/.gradle/caches/transforms-3/72c0b015e2a8c690e85a112350089fc8/transformed/glide-4.16.0/res
+com.example.recipekhojo.app-sqlite-framework-2.4.0-13 /Users/mukeshkumhar/.gradle/caches/transforms-3/7705bb057d97fa461c758ac1c99e1f73/transformed/sqlite-framework-2.4.0/res
+com.example.recipekhojo.app-cardview-1.0.0-14 /Users/mukeshkumhar/.gradle/caches/transforms-3/7ef0ccc6f0c9f790fb1c4da392a89912/transformed/cardview-1.0.0/res
+com.example.recipekhojo.app-viewpager2-1.0.0-15 /Users/mukeshkumhar/.gradle/caches/transforms-3/89ebbd3d2b6d7f423c51cf374095f280/transformed/viewpager2-1.0.0/res
+com.example.recipekhojo.app-lifecycle-viewmodel-savedstate-2.6.1-16 /Users/mukeshkumhar/.gradle/caches/transforms-3/8e772e81a5ecc2608f8e5e59be911526/transformed/lifecycle-viewmodel-savedstate-2.6.1/res
+com.example.recipekhojo.app-startup-runtime-1.1.1-17 /Users/mukeshkumhar/.gradle/caches/transforms-3/8eb7b6a3b047f8c6987698b541f76855/transformed/startup-runtime-1.1.1/res
+com.example.recipekhojo.app-appcompat-1.6.1-18 /Users/mukeshkumhar/.gradle/caches/transforms-3/9bd46f5606f531a8bf1d5c05a7d90fd3/transformed/appcompat-1.6.1/res
+com.example.recipekhojo.app-android-gif-drawable-1.2.25-19 /Users/mukeshkumhar/.gradle/caches/transforms-3/9e66a8446ce301aa45fae8f9811bad5a/transformed/android-gif-drawable-1.2.25/res
+com.example.recipekhojo.app-constraintlayout-2.1.4-20 /Users/mukeshkumhar/.gradle/caches/transforms-3/bd7bd0ef222ed8789745d3ec0f75d360/transformed/constraintlayout-2.1.4/res
+com.example.recipekhojo.app-material-1.11.0-21 /Users/mukeshkumhar/.gradle/caches/transforms-3/c5314445e69c53d54bd0fe701e0def45/transformed/material-1.11.0/res
+com.example.recipekhojo.app-profileinstaller-1.3.0-22 /Users/mukeshkumhar/.gradle/caches/transforms-3/ca524a7cc46a887fee3387aee169cff6/transformed/profileinstaller-1.3.0/res
+com.example.recipekhojo.app-core-runtime-2.2.0-23 /Users/mukeshkumhar/.gradle/caches/transforms-3/ceaa8a340f7ca9d14c7ca4add15e9eda/transformed/core-runtime-2.2.0/res
+com.example.recipekhojo.app-sqlite-2.4.0-24 /Users/mukeshkumhar/.gradle/caches/transforms-3/cff35571ead52d5c4ba6d0d04a245cb7/transformed/sqlite-2.4.0/res
+com.example.recipekhojo.app-lifecycle-runtime-2.6.1-25 /Users/mukeshkumhar/.gradle/caches/transforms-3/d771e806de52a4912d3905e0aa9df962/transformed/lifecycle-runtime-2.6.1/res
+com.example.recipekhojo.app-appcompat-resources-1.6.1-26 /Users/mukeshkumhar/.gradle/caches/transforms-3/e346f7bd077ce8a5ee279a889e075c25/transformed/appcompat-resources-1.6.1/res
+com.example.recipekhojo.app-recyclerview-1.1.0-27 /Users/mukeshkumhar/.gradle/caches/transforms-3/e78c77f94ba3d650462669c06853df12/transformed/recyclerview-1.1.0/res
+com.example.recipekhojo.app-savedstate-1.2.1-28 /Users/mukeshkumhar/.gradle/caches/transforms-3/e7ac9f34424a2d8b37c760d287d49aca/transformed/savedstate-1.2.1/res
+com.example.recipekhojo.app-lifecycle-livedata-2.6.1-29 /Users/mukeshkumhar/.gradle/caches/transforms-3/f486059a9e90ad8b096f72db49960dbe/transformed/lifecycle-livedata-2.6.1/res
+com.example.recipekhojo.app-fragment-1.3.6-30 /Users/mukeshkumhar/.gradle/caches/transforms-3/fbc0489bf4d72a52f9343977d6023560/transformed/fragment-1.3.6/res
+com.example.recipekhojo.app-coordinatorlayout-1.1.0-31 /Users/mukeshkumhar/.gradle/caches/transforms-3/fe5a16d90a93ada570ce1785c2ff22f9/transformed/coordinatorlayout-1.1.0/res
+com.example.recipekhojo.app-pngs-32 /Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/build/generated/res/pngs/debug
+com.example.recipekhojo.app-resValues-33 /Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/build/generated/res/resValues/debug
+com.example.recipekhojo.app-packageDebugResources-34 /Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.recipekhojo.app-packageDebugResources-35 /Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.recipekhojo.app-merged_res-36 /Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/build/intermediates/merged_res/debug
+com.example.recipekhojo.app-debug-37 /Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/debug/res
+com.example.recipekhojo.app-main-38 /Users/mukeshkumhar/Downloads/Android Studio/RecipeApp/app/src/main/res

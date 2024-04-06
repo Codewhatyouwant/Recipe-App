@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_text_overlay.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/text_overlay.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_category_dessert.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/category_dessert.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_drinks.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/drinks.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_category_card_bc.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/category_card_bc.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_bottom_sheet_bg.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/bottom_sheet_bg.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_activity_category.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_category.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_searchview.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/searchview.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_ic_favorite_red_24dp.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/ic_favorite_red_24dp.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_activity_recipe.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_popular_rv_items.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/popular_rv_items.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_btn_ing.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/btn_ing.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_full_size_ic.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/full_size_ic.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_search_rv.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/search_rv.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_search_ic.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/search_ic.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_category_main.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/category_main.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_back_icon.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/back_icon.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_category_rv.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/category_rv.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_card_back_btn.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/card_back_btn.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_card_shape.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/card_shape.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_drink_logo.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/drink_logo.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_main_golo.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/main_golo.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_pizza_sample.jpg.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/pizza_sample.jpg"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_clock_icon.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/clock_icon.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_activity_search.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_activity_home.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_card_recipe.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/card_recipe.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_star.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/star.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_ic_favorite_shadow_24dp.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/ic_favorite_shadow_24dp.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_scroll_up.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/scroll_up.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/xml_activity_recipe_scene.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/xml/activity_recipe_scene.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_logo_animation.gif.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/logo_animation.gif"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_catergory_drinks.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/catergory_drinks.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_sallade_logo.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/sallade_logo.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.recipekhojo.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_gif_bg.gif.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/gif_bg.gif"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_info_ic.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/info_ic.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_developer_ic.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/developer_ic.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_clock_ic_white.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/clock_ic_white.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_star_black.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/star_black.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_bottem_sheet.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/bottem_sheet.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_home_assest1.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/home_assest1.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_mukesh_img.jpg.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/mukesh_img.jpg"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_sweet_logo.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/sweet_logo.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_menu_home.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/menu_home.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_card_btn.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/card_btn.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_category_salad.png.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/category_salad.png"
+    },
+    {
+        "merged": "com.example.recipekhojo.app-merged_res-36:/drawable_image_btm_overlay.xml.flat",
+        "source": "com.example.recipekhojo.app-main-38:/drawable/image_btm_overlay.xml"
+    }
+]

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.motion.widget.MotionLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecipeActivity"
+    app:layoutDescription="@xml/activity_recipe_scene">
+
+    <ImageView
+        android:id="@+id/item_image"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:background="#F6F6F6"
+        android:scaleType="centerCrop"
+        android:hapticFeedbackEnabled="true"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/pizza_sample" />
+
+    <ImageView
+        android:id="@+id/shado"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        app:layout_constraintBottom_toBottomOf="@+id/item_image"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/item_image"
+        app:srcCompat="@drawable/image_btm_overlay" />
+
+    <ImageView
+        android:id="@+id/back_btn"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:clickable="true"
+        android:padding="4dp"
+        android:hapticFeedbackEnabled="true"
+        android:foregroundGravity="center"
+        android:background="@drawable/card_back_btn"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/back_icon" />
+
+    <ImageView
+        android:id="@+id/full_screen"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="20dp"
+        android:padding="4dp"
+        android:clickable="true"
+        android:hapticFeedbackEnabled="true"
+        android:foregroundGravity="center"
+        app:tint="@color/white"
+        app:layout_constraintBottom_toBottomOf="@+id/back_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/back_btn"
+        app:srcCompat="@drawable/full_size_ic" />
+
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="-10dp"
+        android:background="@drawable/card_recipe"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/item_image"
+        android:id="@+id/TODO">
+
+        <TextView
+            android:id="@+id/tittle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="55dp"
+            android:layout_marginTop="22dp"
+            android:textSize="20sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"
+            android:text="I am sample of title" />
+        <ImageView
+            android:id="@+id/clock"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:src="@drawable/clock_icon"
+            android:layout_below="@+id/tittle"
+            app:tint="#019267"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="2dp"/>
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:text="5 Mins"
+            android:gravity="center_vertical"
+            android:layout_marginTop="3dp"
+            android:layout_marginStart="6dp"
+            android:layout_toEndOf="@+id/clock"
+            android:layout_below="@+id/tittle"/>
+
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/time"
+            android:layout_alignBottom="@+id/time"
+            android:layout_marginStart="3dp"
+            android:layout_marginTop="-3dp"
+            android:layout_marginBottom="-2dp"
+            android:layout_toEndOf="@+id/time"
+            android:background="@drawable/star" />
+
+        <ImageView
+            android:id="@+id/imageView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView6"
+            android:layout_alignBottom="@+id/imageView6"
+            android:layout_marginStart="2dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_toEndOf="@+id/imageView6"
+            android:background="@drawable/star" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView7"
+            android:layout_alignBottom="@+id/imageView7"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_toEndOf="@+id/imageView7"
+            android:background="@drawable/star" />
+
+        <ImageView
+            android:id="@+id/imageView9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView8"
+            android:layout_alignBottom="@+id/imageView8"
+            android:layout_marginStart="0dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:layout_toEndOf="@+id/imageView8"
+            android:background="@drawable/star" />
+
+        <ImageView
+            android:id="@+id/imageView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tittle"
+            android:layout_alignBottom="@+id/imageView9"
+            android:layout_marginStart="1dp"
+            android:layout_marginTop="-2dp"
+            android:layout_marginBottom="0dp"
+            android:layout_toEndOf="@+id/imageView9"
+            android:background="@drawable/star_black" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView10"
+            android:layout_alignBottom="@+id/imageView10"
+            android:layout_marginStart="10dp"
+            android:layout_marginTop="0dp"
+            android:layout_marginBottom="0dp"
+            android:textSize="10sp"
+            android:layout_toEndOf="@+id/imageView10"
+            android:text="251" />
+
+        <Button
+            android:id="@+id/ing"
+            android:layout_width="150dp"
+            android:layout_height="42sp"
+            android:text="Ingredients"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/tittle"
+            android:layout_marginTop="40dp"
+            android:layout_marginStart="34dp"
+            android:background="@drawable/btn_ing"
+            android:paddingLeft="20sp"
+            android:paddingRight="20sp"
+            />
+        <ScrollView
+            android:id="@+id/ing_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/ing"
+            android:layout_alignParentStart="true"
+            android:padding="10dp">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/ing_data"
+                android:layout_gravity="center"
+                android:lineSpacingExtra="10dp"
+                android:textColor="@color/black"
+                android:text=""
+                android:textSize="15sp"
+                />
+        </ScrollView>
+        <Button
+            android:id="@+id/step"
+            android:layout_width="150dp"
+            android:layout_height="42sp"
+            android:text="Steps"
+            android:textColor="@color/black"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/tittle"
+            android:layout_marginTop="40dp"
+            android:layout_marginEnd="34dp"
+            android:background="@drawable/category_card_bc"
+            android:paddingLeft="20sp"
+            android:paddingRight="20sp"
+            />
+
+        <ScrollView
+            android:id="@+id/sttep_scroll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/step"
+            android:layout_alignParentStart="true"
+            android:padding="10dp"
+            android:visibility="invisible">
+
+            <TextView
+                android:id="@+id/step_data"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:lineSpacingExtra="10dp"
+                android:text=""
+                android:textColor="@color/black"
+                android:textSize="15sp" />
+        </ScrollView>
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/go_up"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="16dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/item_image"
+        app:srcCompat="@drawable/scroll_up" />
+
+    <ImageView
+        android:id="@+id/like"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="10dp"
+        android:background="@drawable/ic_favorite_shadow_24dp"
+        app:layout_constraintBottom_toBottomOf="@+id/go_up"
+        app:layout_constraintEnd_toStartOf="@+id/go_up"
+        app:layout_constraintTop_toTopOf="@+id/go_up" />
+
+
+</androidx.constraintlayout.motion.widget.MotionLayout>
